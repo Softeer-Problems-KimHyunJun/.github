@@ -37,7 +37,7 @@ https://softeer.ai/app
 문제 상태 : 문제 개발 중 -> 소프티어 업로드 완료 -> 교차 검수 완료 -> 교차검수 수정 완료 -> NGV 검수 완료
 | 문제ID  | 난이도 |문제 제목 | 문제 상태 | URL |
 |:---------------:|:--------:|:----------------------------------:|:---------------------------:|:-------------------------------------------------------------------------------:|
-| SQL-KHJ-1-2401  |  MEDIUM  |   전자 상거래 사용자의 환불률 구하기  |     교차 검수 완료     |[SQL-KHJ-1-2401](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-1-2401)|
+| SQL-KHJ-1-2401  |  MEDIUM  |   전자 상거래 사용자의 환불률 구하기  |     교차 검수 수정 완료     |[SQL-KHJ-1-2401](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-1-2401)|
 | SQL-KHJ-2-2401  |  MEDIUM  |   최근 판매 현황 분석                |     소프티어 업로드 완료     |[SQL-KHJ-2-2401](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-2-2401)|
 | SQL-KHJ-3-2401  |  MEDIUM  |   고속도로 교통 혼잡도 계산하기      |     소프티어 업로드 완료     |[SQL-KHJ-3-2401](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-3-2401)|
 | SQL-KHJ-4-2401  |  MEDIUM  |   인기 모델 구하기                  |     소프티어 업로드 완료     |[SQL-KHJ-4-2401](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-4-2401)|
