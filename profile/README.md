@@ -31,7 +31,7 @@ https://softeer.ai/app
 | 난이도  | 전체 개수 | 깃허브 업로드 | 소프티어 업로드 완료  | 교차검수 완료 | 교차검수 수정완료 | NGV 검수 완료 |
 |:------------:|:-------:|:---------:|:-----------:|:------------:|:----------:|:----------:|
 | **MEDIUM**  |   8    |     6         |       6       |      6       |       0        |       0        |
-| **HARD**    |    7   |      2        |       2        |      2       |       0       |       0        |
+| **HARD**    |    7   |      6        |       2        |      2       |       0       |       0        |
 
 ### 📌 문제별 상태 📌
 문제 상태 : 깃허브 업로드 완료 -> 소프티어 업로드 완료 -> 교차검수 완료 -> 교차검수 수정 완료 -> NGV 검수 완료
@@ -45,3 +45,7 @@ https://softeer.ai/app
 | SQL-KHJ-6 | 2401  |  MEDIUM  |   당일 배송                        |     교차검수 수정 완료     |[SQL-KHJ-6](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-6)|
 | SQL-KHJ-7 | 2401  |  HARD    |   차량 평가 분석                    |     교차검수 수정 완료     |[SQL-KHJ-7](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-7)|
 | SQL-KHJ-8 | 2401  |  HARD    |   렌터카                            |    교차검수 수정 완료     |[SQL-KHJ-8](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-8)|
+| SQL-KHJ-9 | 2402  |  HARD  |   영업왕 선발하기                        |      깃허브 업로드 완료      |[SQL-KHJ-9](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-9)|
+| SQL-KHJ-10 | 2402  |  HARD    |   현대자동차 신형 모델의 판매 현황 분석하기  |     깃허브 업로드 완료     |[SQL-KHJ-10](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-10)|
+| SQL-KHJ-11 | 2402  |  HARD    |  독감 백신의 효과 분석하기                            |    깃허브 업로드 완료      |[SQL-KHJ-11](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-11)|
+| SQL-KHJ-12 | 2402  |  HARD    |  큰손 고객 찾기                            |    깃허브 업로드 완료     |[SQL-KHJ-12](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-12)|
