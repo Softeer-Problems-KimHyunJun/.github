@@ -45,12 +45,12 @@ https://softeer.ai/app
 | SQL-KHJ-6 | 2401  |  MEDIUM  |   당일 배송                        |     교차검수 수정 완료     |[SQL-KHJ-6](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-6)|
 | SQL-KHJ-7 | 2401  |  HARD    |   차량 평가 분석                    |     교차검수 수정 완료     |[SQL-KHJ-7](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-7)|
 | SQL-KHJ-8 | 2401  |  HARD    |   렌터카                            |    교차검수 수정 완료     |[SQL-KHJ-8](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-8)|
-| SQL-KHJ-9 | 2402  |  HARD  |   영업왕 선발하기                        |      소프티어 업로드 완료      |[SQL-KHJ-9](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-9)|
-| SQL-KHJ-10 | 2402  |  HARD    |   현대자동차 신형 모델의 판매 현황 분석하기  |     소프티어 업로드 완료     |[SQL-KHJ-10](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-10)|
-| SQL-KHJ-11 | 2402  |  HARD    |  독감 백신의 효과 분석하기                            |    소프티어 업로드 완료      |[SQL-KHJ-11](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-11)|
-| SQL-KHJ-12 | 2402  |  HARD    |  큰손 고객 찾기                            |    소프티어 업로드 완료     |[SQL-KHJ-12](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-12)|
-| SQL-KHJ-13 | 2402  |  HARD    |  부동산 분석                            |    소프티어 업로드 완료     |[SQL-KHJ-13](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-13)|
-| SQL-KHJ-14 | 2402  |  MEDIUM    |  자동차 시장 트렌드 분석                            |    소프티어 업로드 완료     |[SQL-KHJ-14](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-14)|
-| SQL-KHJ-15 | 2402  |  MEDIUM    |  전자상거래 시장 분석                            |    소프티어 업로드 완료     |[SQL-KHJ-15](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-15)|
+| SQL-KHJ-9 | 2402  |  HARD  |   영업왕 선발하기                        |      교차검수 수정 완료      |[SQL-KHJ-9](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-9)|
+| SQL-KHJ-10 | 2402  |  HARD    |   현대자동차 신형 모델의 판매 현황 분석하기  |     교차검수 수정 완료     |[SQL-KHJ-10](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-10)|
+| SQL-KHJ-11 | 2402  |  HARD    |  독감 백신의 효과 분석하기                            |    교차검수 수정 완료      |[SQL-KHJ-11](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-11)|
+| SQL-KHJ-12 | 2402  |  HARD    |  큰손 고객 찾기                            |    교차검수 수정 완료     |[SQL-KHJ-12](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-12)|
+| SQL-KHJ-13 | 2402  |  HARD    |  부동산 분석                            |    교차검수 수정 완료     |[SQL-KHJ-13](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-13)|
+| SQL-KHJ-14 | 2402  |  MEDIUM    |  자동차 시장 트렌드 분석                            |    교차검수 수정 완료     |[SQL-KHJ-14](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-14)|
+| SQL-KHJ-15 | 2402  |  MEDIUM    |  전자상거래 시장 분석                            |    교차검수 수정 완료     |[SQL-KHJ-15](https://github.com/Softeer-Problems-KimHyunJun/SQL-KHJ-15)|
 
 
